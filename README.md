@@ -1,9 +1,10 @@
 Address Validation Model 
 
 Dataset: 
-attribute=address 
+attribute=address,
 label= invalid(1) or valid(0) address
-train set:(1317231, 2)
+
+train set:(1317231, 2) , 
 test set:(520000, 2)
  
 Models used:
